@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Update Docs Home and Neural Magic pages (#7243)
