@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
