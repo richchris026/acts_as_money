@@ -1,1 +1,1 @@
-Bump slackapi/slack-github-action from 1.24.0 to 1.25.0 in /.github/workflows (#7871)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
