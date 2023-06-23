@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
