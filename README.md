@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
