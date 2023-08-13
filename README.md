@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
