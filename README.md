@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+Fix Multi-GPU resume bug (#7328)
