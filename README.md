@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Add missing single-line docstrings (#8362)
