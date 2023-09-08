@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
