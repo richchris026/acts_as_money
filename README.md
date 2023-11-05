@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
