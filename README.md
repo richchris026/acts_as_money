@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
