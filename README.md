@@ -1,1 +1,1 @@
-ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
