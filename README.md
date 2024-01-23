@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
