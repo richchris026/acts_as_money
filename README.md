@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Update Colab notebook for YOLOv8.1 (#8660)
