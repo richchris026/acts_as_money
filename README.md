@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
