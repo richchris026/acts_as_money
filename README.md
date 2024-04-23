@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+TensorRT FP16 export with dynamic=True (#7870)
