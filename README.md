@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
