@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
