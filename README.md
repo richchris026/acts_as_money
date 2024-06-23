@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
