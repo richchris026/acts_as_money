@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
