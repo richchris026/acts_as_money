@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
